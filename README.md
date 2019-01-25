@@ -1,4 +1,7 @@
-# bsk
+# 后台模板 使用vue-cli + element-ui
+# 下载前必读
+# 下载后 命令行下载 node-moudles -->  cnpm install node
+# 自行打包
 
 > A Vue.js project
 
